@@ -1,0 +1,15 @@
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\Xavier.Series.exe
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\Xavier.Series.deps.json
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\Xavier.Series.runtimeconfig.json
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\Xavier.Series.dll
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\ref\Xavier.Series.dll
+C:\Users\Messo\Xavier.Series\bin\Debug\net6.0\Xavier.Series.pdb
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.csproj.AssemblyReference.cache
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.AssemblyInfoInputs.cache
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.AssemblyInfo.cs
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.csproj.CoreCompileInputs.cache
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.dll
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\ref\Xavier.Series.dll
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.pdb
+C:\Users\Messo\Xavier.Series\obj\Debug\net6.0\Xavier.Series.genruntimeconfig.cache
